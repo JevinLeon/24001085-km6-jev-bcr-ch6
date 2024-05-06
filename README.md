@@ -1,7 +1,7 @@
 # React + Vite
 
-Admin : superadmin@test.com
-Password : test123
+- Admin : superadmin@test.com
+- Password : test123
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
