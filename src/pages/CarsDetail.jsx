@@ -96,7 +96,6 @@ const CarsDetail = () => {
               </div>
             </form>
           </div>
-          <Toaster />
         </>
       ) : (
         <LoaderCircle className="h-10 w-full my-4 animate-spin" />

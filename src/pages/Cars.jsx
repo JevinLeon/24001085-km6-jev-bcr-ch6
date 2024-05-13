@@ -65,7 +65,6 @@ const CarsPage = () => {
             <Skeleton key={i} className="h-[400px] w-full" />
           ))}
       </div>
-      <Toaster />
     </div>
   );
 };
